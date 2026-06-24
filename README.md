@@ -21,3 +21,4 @@ This is a Machine Learning project built with Python and Scikit-learn. It analyz
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/YourUsername/Phishing-Email-Detection.git
+C:\Users\londh\OneDrive\Desktop\phishing_detector.py\phishing_detector.py
