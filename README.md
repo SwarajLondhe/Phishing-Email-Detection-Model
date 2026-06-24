@@ -19,6 +19,6 @@ This is a Machine Learning project built with Python and Scikit-learn. It analyz
 ## 🚀 How to Run the Project
 
 1. **Clone the repository:**
-   ```bash
-  https://github.com/SwarajLondhe/Phishing-Email-Detection-Model
+   ```bash  https://github.com/SwarajLondhe/Phishing-Email-Detection-Model
+
 
